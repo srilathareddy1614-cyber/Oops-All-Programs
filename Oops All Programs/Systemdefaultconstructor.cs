@@ -11,7 +11,9 @@
 //        //    id = 101;
 //        //    name = "srilatha";
 //        //    clg = "navodaya";
-//        //}
+//        //}class student
+
+
 //        public void Display()
 //        {
 //            Console.WriteLine(" student id is: " + id);
