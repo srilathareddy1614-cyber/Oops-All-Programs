@@ -44,6 +44,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="AddUsingThisKeyword.cs" />
+    <Compile Include="Public_am.cs" />
     <Compile Include="ConstOl2.cs" />
     <Compile Include="ConstructorOverloaded.cs" />
     <Compile Include="EmpArray.cs" />
