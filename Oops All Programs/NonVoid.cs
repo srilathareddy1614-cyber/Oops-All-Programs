@@ -1,0 +1,47 @@
+﻿//using System;
+//using System.Collections.Generic;
+//using System.Linq;
+//using System.Text;
+//using System.Threading.Tasks;
+
+//namespace Oops_All_Programs
+//{
+//    class calculation
+//    {
+//        public void Add()
+//        {
+//            int a = 10;
+//            int b = 20;
+//            int c = a + b;
+//            Console.WriteLine(c);
+//        }
+//        public void Sum(int a, int b)
+//        {
+//            int c = a + b;
+//            Console.WriteLine(" sum is {0} ", c);
+//        }
+//        public void Greet()
+//        {
+//            Console.WriteLine("welcome to oops");
+//        }
+//        public int Addition()
+//        {
+//            int a = 20;
+//            int b = 90;
+//            int c = a + b;
+//            return c;
+//        }
+//    }
+//    internal class NonVoid
+//    {
+//        static void Main(string[] args)
+//        {
+//            calculation obj = new calculation();
+//            obj.Add();
+//            obj.Sum(200, 300);
+//            obj.Greet();
+//            int result=obj.Addition();
+//            Console.WriteLine(result);
+//        }
+//    }
+//}
