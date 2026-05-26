@@ -44,6 +44,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="AddUsingThisKeyword.cs" />
+    <Compile Include="StaticConstructor.cs" />
     <Compile Include="CopyConstructor2.cs" />
     <Compile Include="CopyConstructor.cs" />
     <Compile Include="Inheritance2.cs" />
