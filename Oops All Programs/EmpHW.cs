@@ -49,6 +49,10 @@ namespace Oops_All_Programs
             emp.Display();
             Employee.companydisplay();
             emp.salaryhike(10);
+            Employee obj = new Employee(2, "sita", 30000);
+            obj.Display();
+            Employee.companydisplay();
+            obj.salaryhike(20);
         }
     }
 }
