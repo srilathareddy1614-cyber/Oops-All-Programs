@@ -45,6 +45,7 @@
   <ItemGroup>
     <Compile Include="AddUsingThisKeyword.cs" />
     <Compile Include="Abstraction.cs" />
+    <Compile Include="VirtualMethod.cs" />
     <Compile Include="Encapsulation3.cs" />
     <Compile Include="Encapsulation2.cs" />
     <Compile Include="Encapsulaton1.cs" />
