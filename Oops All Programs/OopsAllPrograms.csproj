@@ -48,6 +48,7 @@
     <Compile Include="Abstract1.cs" />
     <Compile Include="AbstractSingleInheritance.cs" />
     <Compile Include="AbstractInheritanceex.cs" />
+    <Compile Include="ExwithClassesObjects.cs" />
     <Compile Include="ConstructorAbstract.cs" />
     <Compile Include="ExOnAllTopics.cs" />
     <Compile Include="VirtualMethod.cs" />
