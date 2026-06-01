@@ -49,6 +49,7 @@
     <Compile Include="AbstractSingleInheritance.cs" />
     <Compile Include="AbstractInheritanceex.cs" />
     <Compile Include="AbstractShape.cs" />
+    <Compile Include="MultipleInterface2.cs" />
     <Compile Include="MultipleInterface.cs" />
     <Compile Include="ExpressionBodiedMembers.cs" />
     <Compile Include="InterfaceEx.cs" />
